@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7108
     wikipedia: http://en.wikipedia.org/wiki/Frederick_Albion_Ober
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34802#Vasco-Nu-ez-de-Balboa
 gutenberg_issued: '2010-12-31'
 gutenberg_type: Text
 identifiers:
