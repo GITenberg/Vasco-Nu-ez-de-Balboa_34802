@@ -1,0 +1,32 @@
+_repo: Vasco-Nu-ez-de-Balboa_34802
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ober, Frederick A. (Frederick Albion)
+    aliases:
+    - Ober, F. A. (Frederick Albion)
+    - Ober, Frederick Albion
+    - Beverly, Fred
+    - Ober, Fred A. (Frederick Albion)
+    birthdate: 1849
+    deathdate: 1913
+    gutenberg_agent_id: '7108'
+    url: http://www.gutenberg.org/2009/agents/7108
+    wikipedia: http://en.wikipedia.org/wiki/Frederick_Albion_Ober
+description: ''
+gutenberg_issued: '2010-12-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34802'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Balboa, Vasco Nuñez de (17475-1519)'
+- !lcc 'E011'
+title: Vasco Nuñez de Balboa
+url: http://www.gutenberg.org/ebooks/34802
